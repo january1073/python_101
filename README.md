@@ -1,2 +1,2 @@
-# python_101
+# Python 101
 My first steps in Python 3
